@@ -1,0 +1,50 @@
+[
+    {
+      "name": "ソースたっぷり！ナポリタン",
+      "namelink": "https://www.sej.co.jp/i/item/150000090154.html?category=340&page=1",
+      "value": "340円（税込367円）",
+      "price": "東北、関東、甲信越、北陸、近畿、中国、四国"
+    },
+    {
+      "name": "とろ～りチーズのナポリタン",
+      "namelink": "https://www.sej.co.jp/i/item/150000092506.html?category=340&page=1",
+      "value": "330円（税込356円）",
+      "price": "東北、関東、東海"
+    },
+    {
+      "name": "肉の旨味！ミートソースパスタ",
+      "namelink": "https://www.sej.co.jp/i/item/150000090163.html?category=340&page=1",
+      "value": "370円（税込399円）",
+      "price": "全国"
+    },
+    {
+      "name": "明太子のクリームパスタ",
+      "namelink": "https://www.sej.co.jp/i/item/150000090294.html?category=340&page=1",
+      "value": "430円（税込464円）",
+      "price": "東北、首都圏（埼玉一部除く）、茨城一部"
+    },
+    {
+      "name": "ほうれん草のクリームスープパスタ",
+      "namelink": "https://www.sej.co.jp/i/item/150000091708.html?category=340&page=1",
+      "value": "460円（税込496円）",
+      "price": "関東、中京、九州"
+    },
+    {
+      "name": "3種魚介のクラムチャウダーパスタ",
+      "namelink": "https://www.sej.co.jp/i/item/150000091109.html?category=340&page=1",
+      "value": "460円（税込496円）",
+      "price": "北海道一部、東北、首都圏、北関東一部、甲信越、北陸、静岡、近畿、中国、四国、九州"
+    },
+    {
+      "name": "あさりのボンゴレスパゲティ",
+      "namelink": "https://www.sej.co.jp/i/item/150000090852.html?category=340&page=1",
+      "value": "398円（税込429円）",
+      "price": "北海道一部、北関東一部、山梨、長野、静岡"
+    },
+    {
+      "name": "大盛！ソーセージペペロン",
+      "namelink": "https://www.sej.co.jp/i/item/150000090219.html?category=340&page=1",
+      "value": "460円（税込496円）",
+      "price": "全国（九州除く）"
+    }
+  ]
